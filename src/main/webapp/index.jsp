@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Welcome to index</h1>
+<h1>Welcome to Spring Workshop</h1>
 
 </body>
 </html>
